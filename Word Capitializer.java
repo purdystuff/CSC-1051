@@ -1,4 +1,4 @@
-//I know I did this a little wonky but I did the best I could under the time constraints.
+//I know I did this a little wonky...
 
 package app;
 
